@@ -1,0 +1,3 @@
+﻿  CGT215Lab05_Winter_Geo.cpp
+C:\Users\winter66\source\repos\CGT215Lab05_Winter_Geo\CGT215Lab05_Winter_Geo\CGT215Lab05_Winter_Geo.cpp(24,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CGT215Lab05_Winter_Geo.vcxproj -> C:\Users\winter66\source\repos\CGT215Lab05_Winter_Geo\x64\Debug\CGT215Lab05_Winter_Geo.exe
